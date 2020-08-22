@@ -1,0 +1,164 @@
+body{
+  font-family: sans-serif;
+}
+#top{
+  padding: 0 40px;
+  width:1200px;
+  height:400px;
+}
+#d1 {
+  font-size:20px;
+  font-weight: 400;
+  color:rgb(50,50,50);
+}
+#d2{
+  text-align:center;
+  color:rgb(50,50,50);
+}
+#h1{
+   font-weight: 500;
+   font-size:40px;
+}
+#i1{
+  background-color:rgb(22, 57, 184);
+  color:white; 
+  border:0;
+  padding:10px 20px;
+
+}
+#s1{
+  background-color: rgb(225, 230, 226);
+  padding: 20px 0;
+}
+.c1{
+  background-color:rgb(255,255,255); 
+  padding:10px 40px 15px ;
+  width:300px;
+  height:250px;
+  color:rgb(50,50,50);
+  box-shadow:0 0 8px 0 rgba(50,50,50,50);
+  transition:0.3s;
+  text-align:center;
+}
+.c1:hover{
+  box-shadow:0 0 16px 0 rgba(50,50,50,50); 
+}
+#a1{
+  color:blue;
+}
+span{
+  border:1px solid;
+  border-radius:10px;
+  padding:5px 5px;
+  background:rgb(209, 220, 237);
+  border-color:rgb(197, 203, 222);
+}
+#i2{
+  padding:5px 20px;
+  font-family:Sailec-Bold;
+  font-size:12px;
+}
+.column{
+  float:left;
+  width:25%;
+  padding:20px 50px;
+}
+.row
+ {margin: 0 10px;}
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+#i3{
+  text-align: center;
+  background-color:rgb(22, 57, 184);
+  color:white; 
+  border:0;
+  padding:10px 30px;
+}
+#d4{
+   text-align: center;
+   padding: 10px 0 10px;
+}
+#s3{
+  text-align:center;
+  color:rgb(244,244,244);
+  background-color: blue;
+  padding:30px 0 40px;
+}
+#b1{
+  background-color:blue;
+  color:rgb(244,244,244);
+  border-radius: 5px;
+  padding: 10px 20px;
+}
+#col{
+
+  float:left;
+  width:15%;
+  padding:10px 5px;
+}
+
+#s5{
+  text-align:center;
+  padding:10px 0;
+}
+#rowi1{
+  margin:0 60px;
+}
+#rowi1:after{
+  content: "";
+  display: table;
+  clear:both;
+}
+#s6{
+  text-align:center;
+  padding:15px 0;
+}
+.col2{
+  float:left;
+   width:380px;
+  padding:10px 15px;
+}
+.row3{
+  margin:0 250px;
+}
+.row3:after{
+  content: "";
+  display: table;
+  clear:both;
+}
+.c2{
+ 
+  width:325px;
+  height:300px;
+  border-radius: 10px;
+  color:rgb(50,50,50);
+  box-shadow:0 0 4px 0 rgb(220,220,220);
+  transition:0.3s;
+  text-align:center;
+
+}
+.c2:hover{
+  box-shadow:0 0 8px 0 rgb(50,50,50);
+}
+#img1{
+  border-radius:10px;
+}
+#d5{
+  font-size:30px;
+  text-align: center;
+  font-weight:700;
+}
+#i6{
+  color: rgb(50,50,50);
+}
+#h2{
+   font-weight: 700;
+   font-size:40px;
+}
+#h3{
+   font-weight: 500;
+   font-size:36px;
+}
